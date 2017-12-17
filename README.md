@@ -10,6 +10,8 @@ situations
 
 # Contributing
 
+- All code written should adhere to instructions laid out in our
+[style guide](/styles.md)
 - Fork this project, or at least work on a seperate branch(please fork if you
 need a TON of branches for some reason, it gets unweildy to keep them all here)
 - Before you start work on an issue, comment on it so others know it's taken
